@@ -1,0 +1,20 @@
+{
+  "contact": "r/DnD",
+  "templates": [
+    {
+      "name": "r/DnD Beholder",
+      "sources": [
+        "https://i.imgur.com/ahwRbWG.png"
+      ],
+      "x": 901,
+      "y": 862
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "r/DnD Prideholder",
+      "url": "https://raw.githubusercontent.com/DnDreddit/place/template.json"
+    }
+  ],
+  "blacklist": []
+}
